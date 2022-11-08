@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxb9c97e11ae79827c",
+# 公众号appSecret
+"app_secret": "e94ad1070f33f88ab8f58f0e137950ae",
+# 模板消息id
+"template_id": "G4CQhFky9X6KgX8obdmRWjnY17AmIftnev1GdGB6cew",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["ojRRO5o8LGUFzDE3blANG_kKBLzY"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "4cd3092fea504effbf9682c3103351bb",
+# 天行数据apikey
+"tian_api": "9a93496d12fe8afd302521f8db6afbd9",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "广州",
+# 生日
+"birthday1": {"name": "姐姐", "birthday": "2000-02-23"},
+# 在一起的日子，格式同上
+"love_date": "2022-08-04",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "春天是倒放的秋天，早安是爱你的起点",
+# 金句英文
+"note_en": "Meet you was fate,and failing in love with you was out of my control"
+}
